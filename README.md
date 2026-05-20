@@ -92,6 +92,7 @@ native plugin structure:
 - [Canvas](https://github.com/JoshuaBrest/canvas-trmnl) by [@JoshuaBrest](https://github.com/JoshuaBrest)
 - [Anime of the Day](https://github.com/Saious119/trmnl-anime-of-the-day/) by [@Saious119](https://github.com/Saious119)
 - [BVG (Berlin) Public Transport](https://github.com/danmunoz/trmnl-bvg-transit) by [@Danmunoz](https://github.com/danmunoz)
+- [Weekend Movie Picker](https://github.com/danmunoz/trmnl-weekend-movies) by [@Danmunoz](https://github.com/danmunoz)
 - [Bluesky](https://github.com/solimaniac/trmnl-bsky) by [@solimaniac](https://github.com/solimaniac)
 - [YoLink Temperature](https://github.com/erikbuild/trmnl-yolink-temperature) by [@erikbuild](https://github.com/erikbuild)
 - [Anki](https://github.com/ItsJustThomas/trmnl-anki) by [@ItsJustThomas](https://github.com/ItsJustThomas)
